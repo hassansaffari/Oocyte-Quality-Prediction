@@ -56,7 +56,7 @@ Make sure the file `dataf2.xlsx` is present in the same directory as the script 
 ## 🧠 Related Publication
 
 This code is part of the supplementary material for the manuscript:  
-*"Integrating Machine Learning with Microfluidic for Advanced Biomechanical Cell Classification: Predicting Oocyte Quality"*  
+*"Machine Learning and Microfluidic Integration for Oocyte Quality Prediction"*  
 (Under review at **Scientific Reports**)
 
 ## 📝 License
